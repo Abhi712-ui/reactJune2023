@@ -1,1 +1,42 @@
 # reactJune2023
+
+- Introduction to React
+- JSX (JavaScript XML)
+- Components and Props
+- State and Lifecycle
+- Event Handling
+- Conditional Rendering
+- Lists and Keys
+- Forms and Controlled Components
+- React Hooks (useState, useEffect, etc.)
+- Context API
+- React Router
+- Error Handling and Error Boundaries
+- Higher-Order Components (HOC)
+- Render Props
+- React Fragments
+- React Portals
+- Server-Side Rendering (SSR) with React
+- Redux and React-Redux
+- React and AJAX (Fetching Data)
+- Testing React Components (Unit Testing)
+- Performance Optimization
+- Code Splitting and Lazy Loading
+- React Native (Introduction to Mobile Development with React)
+- Styling in React (CSS Modules, Styled Components, etc.)
+- Next.js (React Framework for Server-Side Rendering and Static Site Generation)
+- Gatsby.js (Static Site Generator using React)
+- React and GraphQL
+- Advanced React Patterns
+- React Best Practices and Code Organization
+- React DevTools and Debugging Techniques
+- React Performance Profiling and Optimization Tools
+- React and Web Accessibility
+- React and Internationalization (i18n)
+- React and Webpack (Advanced Configuration)
+- React and Serverless Architecture
+- React and Progressive Web Apps (PWA)
+- React and Animation Libraries (React Spring, Framer Motion, etc.)
+- React and Data Visualization Libraries (D3.js, Victory, etc.)
+- React and Testing Frameworks (Jest, React Testing Library, Enzyme, etc.)
+- Real-Time Communication with React (WebSockets, Socket.io, etc.)
